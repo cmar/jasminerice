@@ -1,5 +1,5 @@
 require "jasminerice/engine"
-require 'haml'
+#require 'haml'
 
 module Jasminerice
 end
