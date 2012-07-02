@@ -8,6 +8,6 @@ Gem::Specification.new do |s|
   s.authors     = ["Brad Phelan"]
   s.version     = "0.0.9"
   s.platform    = Gem::Platform::RUBY
-  s.add_dependency( 'haml' )
+#  s.add_dependency( 'haml' )
   s.add_dependency( 'coffee-rails' )
 end
